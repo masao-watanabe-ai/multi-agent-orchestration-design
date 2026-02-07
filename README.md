@@ -1,10 +1,3 @@
-## About This Document
-
-This repository contains generalized and abstracted design notes
-based on real-world system development experience.
-All names and examples are intentionally anonymized.
-This is not a production implementation.
-
 # Designing Intelligent Process Flows  
 ## A Contract-First Approach to Multi-Agent Orchestration
 
@@ -182,3 +175,11 @@ but also explainable, auditable, and sustainable.
 This document aims to provide architects, decision-makers,  
 and implementers with a concrete framework  
 for designing intelligence that does not disappear into code.
+
+## About This Document
+
+This repository contains generalized and abstracted design notes
+based on real-world system development experience.
+All names and examples are intentionally anonymized.
+This is not a production implementation.
+
