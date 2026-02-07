@@ -183,3 +183,14 @@ based on real-world system development experience.
 All names and examples are intentionally anonymized.
 This is not a production implementation.
 
+## System Map
+
+This repository is one component of a broader
+**contract-first AI decision system architecture**.
+
+For the overall structure, layer definitions, and reading paths,
+see the system-level map:
+
+👉 **AI Decision System Map**  
+https://github.com/masao-watanabe-ai/ai-decision-system-map
+
